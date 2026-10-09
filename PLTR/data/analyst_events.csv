@@ -1,0 +1,89 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2025-04-29,RBC Capital,Underperform,Underperform,reit,Maintains,40.0,40.0
+2025-04-16,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,90.0,95.0
+2025-04-14,DA Davidson,Neutral,Neutral,main,Lowers,100.0,105.0
+2025-03-13,Loop Capital,Buy,Buy,main,Lowers,125.0,141.0
+2025-03-05,William Blair,Market Perform,Underperform,up,Lowers,84.0,125.0
+2025-03-03,Wedbush,Outperform,Outperform,reit,Maintains,120.0,120.0
+2025-02-20,Loop Capital,Buy,,init,Announces,141.0,0.0
+2025-02-05,Citigroup,Neutral,Neutral,main,Raises,110.0,42.0
+2025-02-04,RBC Capital,Underperform,Underperform,main,Raises,40.0,11.0
+2025-02-04,UBS,Neutral,Neutral,main,Raises,105.0,80.0
+2025-02-04,DA Davidson,Neutral,Neutral,main,Raises,105.0,47.0
+2025-02-04,Cantor Fitzgerald,Neutral,Neutral,main,Raises,98.0,72.0
+2025-02-04,Baird,Neutral,Neutral,main,Raises,100.0,70.0
+2025-02-04,Northland Capital Markets,Market Perform,Market Perform,main,Raises,80.0,38.0
+2025-02-04,Mizuho,Underperform,Underperform,main,Raises,80.0,44.0
+2025-02-04,Morgan Stanley,Equal-Weight,Underweight,up,Raises,95.0,60.0
+2025-02-04,B of A Securities,Buy,Buy,main,Raises,125.0,90.0
+2025-02-04,Jefferies,Underperform,Underperform,main,Raises,60.0,28.0
+2025-01-23,Wedbush,Outperform,Outperform,main,Raises,90.0,75.0
+2025-01-16,Cantor Fitzgerald,Neutral,,init,Announces,72.0,0.0
+2024-12-20,Benchmark,Buy,Buy,main,Raises,8.0,3.0
+2024-12-19,UBS,Neutral,,init,Announces,80.0,0.0
+2024-12-13,Mizuho,Underperform,Underperform,main,Raises,44.0,37.0
+2024-12-12,Baird,Neutral,,init,Announces,70.0,0.0
+2024-11-25,B of A Securities,Buy,Buy,main,Raises,75.0,55.0
+2024-11-25,Wedbush,Outperform,Outperform,main,Raises,75.0,57.0
+2024-11-07,Argus Research,Hold,Buy,down,,0.0,0.0
+2024-11-07,Goldman Sachs,Neutral,Neutral,main,Raises,41.0,16.0
+2024-11-07,Jefferies,Underperform,Hold,down,Maintains,28.0,28.0
+2024-11-05,DA Davidson,Neutral,Neutral,main,Raises,47.0,28.0
+2024-11-05,Northland Capital Markets,Market Perform,Market Perform,main,Raises,38.0,35.0
+2024-11-05,Mizuho,Underperform,Underperform,main,Raises,37.0,30.0
+2024-10-17,Mizuho,Underperform,Underperform,main,Raises,30.0,24.0
+2024-09-26,Wedbush,Outperform,Outperform,main,Raises,45.0,38.0
+2024-09-23,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2024-09-10,B of A Securities,Buy,Buy,main,Raises,50.0,30.0
+2024-09-09,Wedbush,Outperform,Outperform,reit,Maintains,38.0,38.0
+2024-08-22,Northland Capital Markets,Market Perform,,init,Announces,35.0,0.0
+2024-08-07,Goldman Sachs,Neutral,Neutral,main,Raises,16.0,14.0
+2024-08-06,Raymond James,Outperform,Outperform,main,Raises,30.0,25.0
+2024-08-06,RBC Capital,Underperform,Underperform,reit,Maintains,9.0,9.0
+2024-08-06,DA Davidson,Neutral,Neutral,main,Raises,28.0,24.0
+2024-08-06,Deutsche Bank,Sell,Sell,main,Raises,21.0,20.0
+2024-08-02,Wedbush,Outperform,Outperform,reit,Maintains,35.0,35.0
+2024-07-30,Citigroup,Neutral,Neutral,main,Raises,28.0,25.0
+2024-07-29,Jefferies,Hold,Hold,main,Raises,28.0,24.0
+2024-07-16,Mizuho,Underperform,Neutral,down,Raises,22.0,21.0
+2024-06-21,"Monness, Crespi, Hardt",Sell,Neutral,down,Announces,20.0,0.0
+2024-06-17,Argus Research,Buy,,init,Announces,29.0,0.0
+2024-05-07,HSBC,Hold,Hold,main,Raises,23.0,22.0
+2024-05-07,Citigroup,Neutral,Neutral,main,Raises,25.0,23.0
+2024-05-07,RBC Capital,Underperform,Underperform,main,Raises,9.0,5.0
+2024-05-07,DA Davidson,Neutral,Neutral,main,Raises,24.0,19.0
+2024-05-07,Deutsche Bank,Sell,Sell,main,Raises,20.0,18.0
+2024-05-06,Wedbush,Outperform,Outperform,reit,Maintains,35.0,35.0
+2024-03-28,"Monness, Crespi, Hardt",Sell,Neutral,down,Announces,20.0,0.0
+2024-03-08,Wedbush,Outperform,Outperform,main,Raises,35.0,30.0
+2024-03-07,Mizuho,Neutral,Neutral,main,Raises,21.0,18.0
+2024-03-06,B of A Securities,Buy,Buy,main,Raises,28.0,24.0
+2024-02-06,Mizuho,Neutral,Neutral,main,Raises,18.0,16.0
+2024-02-06,RBC Capital,Underperform,Underperform,reit,Maintains,5.0,0.0
+2024-02-06,Wedbush,Outperform,Outperform,main,Raises,30.0,25.0
+2024-02-06,Raymond James,Outperform,Outperform,main,Raises,25.0,22.0
+2024-02-06,Citigroup,Neutral,Sell,up,Raises,20.0,10.0
+2024-02-06,Jefferies,Hold,Underperform,up,Raises,22.0,13.0
+2024-01-05,Jefferies,Underperform,Hold,down,Lowers,13.0,18.0
+2023-11-22,RBC Capital,Underperform,Underperform,reit,Maintains,5.0,0.0
+2023-11-21,RBC Capital,Underperform,Underperform,reit,Maintains,5.0,0.0
+2023-09-18,Wedbush,Outperform,Outperform,reit,Maintains,25.0,0.0
+2023-09-15,HSBC,Hold,,init,Announces,16.0,0.0
+2023-08-31,Morgan Stanley,Underweight,Equal-Weight,down,Raises,9.0,8.0
+2023-08-08,DA Davidson,Neutral,Neutral,main,Raises,15.0,8.5
+2023-08-08,Citigroup,Sell,Sell,main,Raises,10.0,6.0
+2023-08-08,Wolfe Research,Underperform,Underperform,main,Raises,7.5,6.0
+2023-08-08,Mizuho,Neutral,Neutral,main,Raises,16.0,14.0
+2023-08-08,Wedbush,Outperform,Outperform,reit,Maintains,25.0,0.0
+2023-08-08,Raymond James,Outperform,Outperform,main,Raises,22.0,18.0
+2023-08-07,Citigroup,Sell,Sell,main,Raises,10.0,6.0
+2023-07-28,Wedbush,Outperform,,init,Announces,25.0,0.0
+2023-06-20,Raymond James,Outperform,Strong Buy,down,Raises,18.0,15.0
+2023-06-12,B of A Securities,Buy,Buy,main,Raises,18.0,13.0
+2023-06-06,Goldman Sachs,Neutral,Neutral,main,Raises,10.0,9.0
+2023-06-05,Jefferies,Hold,Hold,main,Raises,14.0,10.0
+2023-05-10,Citigroup,Sell,Sell,main,Raises,6.0,5.0
+2023-05-10,Credit Suisse,Neutral,,reit,Maintains,11.0,0.0
+2023-05-09,Goldman Sachs,Neutral,,main,Raises,9.0,8.0
+2023-05-09,Deutsche Bank,Sell,,main,Raises,7.0,6.0
+2023-05-09,Jefferies,Hold,,main,Raises,10.0,8.5
